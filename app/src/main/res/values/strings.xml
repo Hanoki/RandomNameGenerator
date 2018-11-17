@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Random Name Generator</string>
+    <string name="person_photo">person_photo</string>
+    <string name="name">Name:</string>
+    <string name="surname">Surname:</string>
+    <string name="age">Age:</string>
+    <string name="region">Region:</string>
+    <string name="generate">Generate</string>
+    <string name="gender_no_colons">Gender</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="amount">Amount:</string>
+    <string name="_1">1</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_title">Number of persons to generate</string>
+    <string name="amount_edit_button">amount_edit_button</string>
+    <string name="phone">Phone: </string>
+    <string name="birthday">Birthday: </string>
+    <string name="email">Email: </string>
+    <string name="password">Password: </string>
+    <string name="credit_card">Credit Card</string>
+    <string name="expiration">Expiration date: </string>
+    <string name="number">Number: </string>
+    <string name="pin">Pin: </string>
+    <string name="security">Security: </string>
+    <string name="mail">Mail</string>
+    <string name="card_expiration_example">9/19</string>
+    <string name="empty_view">You have not generated anything for now</string>
+    <string name="gender_no_colon">Gender</string>
+    <string name="region_no_colon">Region</string>
+
+
+    <string-array name="genders">
+        <item>Random</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="regions">
+        <item>Random</item>
+        <item>Albania</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bangladesh</item>
+        <item>Belgium</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Brazil</item>
+        <item>Bulgaria</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Denmark</item>
+        <item>Egypt</item>
+        <item>England</item>
+        <item>Estonia</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Greece</item>
+        <item>Hungary</item>
+        <item>India</item>
+        <item>Iran</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Japan</item>
+        <item>Korea</item>
+        <item>Mexico</item>
+        <item>Morocco</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>New Zealand</item>
+        <item>Nigeria</item>
+        <item>Norway</item>
+        <item>Pakistan</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Saudi Arabia</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Spain</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Turkey</item>
+        <item>Ukraine</item>
+        <item>United States</item>
+        <item>Vietnam</item>
+    </string-array>
+</resources>
